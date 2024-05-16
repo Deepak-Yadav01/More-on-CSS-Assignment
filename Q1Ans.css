@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+ 
+.navbar {
+    background-color: palevioletred;
+    overflow: hidden;
+}
+
+.nav-item {
+    float:inline-start;
+    display: block;
+    color: greenyellow;
+    padding: 14px 16px;
+    transition: color 0.3s; /* Smooth color transition on hover*/
+}
+ 
+.nav-item:hover {
+    color: #4c09dd;/* Change text color on hover */ 
+}

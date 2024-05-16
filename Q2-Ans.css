@@ -1,0 +1,13 @@
+img {
+height: 200px;
+width: 300px;
+border-radius: 20px;
+}
+.div-with-centre {
+    text-align: center;/*text-align se keval text centre me jaate hai. */
+    margin: 0 auto;
+    background-color: #2ef864;
+    width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+}

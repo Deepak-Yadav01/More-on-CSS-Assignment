@@ -1,0 +1,45 @@
+.navbar{
+   background-color: bisque;
+   padding: 20px;
+}
+.navbar .nav-item{
+    padding: 10px;
+   
+}
+#item1{
+    border-style: dotted;
+    border-radius: 5%;
+    border: chocolate solid;
+    padding: 5px;
+}
+#item2{
+    border-style: dashed;
+    border-radius: 10%;
+    padding: 5px;
+    border-color: brown;
+
+}
+
+#item3{
+    border-style: double;
+    border-radius: 10%;
+    padding: 5px;
+    border-color: blueviolet;
+}
+#item4{
+    border-style:groove;
+    border-radius: 10%;
+    padding: 5px;
+    border-color: rgb(226, 43, 43);
+}
+#item5{
+    border-style: inset;
+    border-radius: 10%;
+    padding: 5px;
+    border-color: rgb(12, 236, 71);
+}
+
+.nav-item:hover{
+    color:black ;
+}
+
